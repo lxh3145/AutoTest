@@ -1,5 +1,5 @@
 package com.token;
 
 public class Tests {
-	String a ="version1";
+	String a ="version fenzhi";
 }
